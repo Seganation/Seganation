@@ -14,4 +14,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seganation&" alt="seganation" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Seganation)](https://git.io/streak-stats)
