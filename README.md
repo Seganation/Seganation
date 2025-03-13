@@ -35,13 +35,23 @@
 
 ## GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rawa-spec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/seganation">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rawa-spec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawa-spec&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/rawa-spec">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rawa-spec&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
+## Contributions
+<div align="center">
+  <a href="https://github.com/rawa-spec">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawa-spec&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 
 ---
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square" alt="Profile views" />
+ <img src="https://komarev.com/ghpvc/?username=rawa-spec&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
