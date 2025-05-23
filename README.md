@@ -33,17 +33,6 @@
  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </div>
 
-## GitHub Activity
-<div align="center">
-  <a href="https://github.com/seganation">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rawa-spec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/rawa-spec">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rawa-spec&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
 ## Contributions
 <div align="center">
   <a href="https://github.com/rawa-spec">
