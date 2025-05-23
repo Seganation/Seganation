@@ -10,6 +10,9 @@
 - 🌱 Passionate about clean code and software architecture
 - ⚡ Always learning and experimenting with new technologies
 
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadacoder" alt="yadacoder" /></a> </p>
+
+
 ## Tech Stack
 <div align="center">
  
