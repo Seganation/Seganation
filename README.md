@@ -1,14 +1,12 @@
 <div align="center">
 
-# Hi, I'm Rawa 👋
+# 👋 Hi, I'm Rawa
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AA6F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;TypeScript+Enthusiast;Building+with+Next.js+%26+React" alt="Typing SVG" />
 
 ---
 
 ### 🚀 About Me
-
-**Passionate about building scalable, type-safe web applications**
 
 🔭 Exploring the depths of **Next.js 15** and **TypeScript**  
 💾 Building robust applications with **Prisma** and **PostgreSQL**  
@@ -26,7 +24,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Database**
 
@@ -46,23 +43,23 @@
 
 ### 📊 GitHub Stats
 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Seganation&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Seganation&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seganation&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8)
 
 ---
 
-### 🏆 Achievements
+### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Seganation&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
+![Trophies](https://github-profile-trophy.vercel.app/?username=Seganation&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+<sub>💡 Open to collaboration and interesting projects!</sub>
 
 </div>
